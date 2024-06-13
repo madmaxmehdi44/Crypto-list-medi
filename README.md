@@ -1,5 +1,6 @@
-# React Website Tutorial: ⭐Build Feature Rich Crypto Screener App with Tailwind CSS
-
+# با React JS و Tailwind CSS، برنامه Feature Rich Crypto Screener را بسازید.
+این برنامه با Context API، React Router و Cryptocurrency API ایجاد شده است.
+اگر می خواهید پروژه را یاد بگیرید، لطفا فایل آموزشی را در "مرا بخوان" بخوانید.⭐⭐⭐⭐⭐
 ![GitHub stars](https://img.shields.io/github/stars/codebucks27/CryptoBucks-A-crypto-screener-application?style=social&logo=ApacheSpark&label=Stars)&nbsp;&nbsp;
 ![GitHub forks](https://img.shields.io/github/forks/codebucks27/CryptoBucks-A-crypto-screener-application?style=social&logo=KashFlow&maxAge=3600)&nbsp;&nbsp;
 ![Github Followers](https://img.shields.io/github/followers/codebucks27.svg?style=social&label=Follow)&nbsp;&nbsp;<br />
